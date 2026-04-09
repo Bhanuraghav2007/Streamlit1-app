@@ -16,3 +16,4 @@ profile_page=st.Page(
 )
 nb=st.navigation(pages=[about_page,contact_page,profile_page])
 
+
